@@ -48,7 +48,6 @@ test:
   encoding: unicode
   database: nouncolour_test
   pool: 5
-  username: nouncolour
   username: thibaut
 
 production:

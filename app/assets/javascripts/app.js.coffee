@@ -1,0 +1,2 @@
+nouncoulour = angular.module('nouncolour',[
+])
