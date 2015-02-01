@@ -56,4 +56,4 @@ production:
   database: nouncolour_production
   pool: 5
   username: nouncolour
-  password: nouncolour
+  password:
